@@ -1,0 +1,13 @@
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.exe
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.deps.json
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.runtimeconfig.json
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.runtimeconfig.dev.json
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.dll
+C:\Users\vn501ee\source\repos\1\SampleApp\bin\Debug\netcoreapp3.1\SampleApp.pdb
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.AssemblyInfoInputs.cache
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.AssemblyInfo.cs
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.dll
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.pdb
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.genruntimeconfig.cache
+C:\Users\vn501ee\source\repos\1\SampleApp\obj\Debug\netcoreapp3.1\SampleApp.csprojAssemblyReference.cache

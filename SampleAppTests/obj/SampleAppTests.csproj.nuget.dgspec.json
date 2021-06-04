@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vn501ee\\source\\repos\\1\\SampleAppTests\\SampleAppTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vn501ee\\source\\repos\\1\\SampleAppTests\\SampleAppTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleAppTests\\SampleAppTests.csproj",
+        "projectName": "SampleAppTests",
+        "projectPath": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleAppTests\\SampleAppTests.csproj",
+        "packagesPath": "C:\\Users\\vn501ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleAppTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vn501ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://repository.walmart.com/repository/isd-nuget-opensource": {},
+          "https://repository.walmart.com/repository/isd-nuget-snapshots": {},
+          "https://repository.walmart.com/repository/isd-nuget-walmart": {},
+          "https://repository.walmart.com/repository/nuget-gallery": {},
+          "https://repository.walmart.com/repository/nuget-hosted": {},
+          "https://repository.walmart.com/repository/nuget-powershell-gallery": {},
+          "https://repository.walmart.com/repository/nuget-snapshot": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\SampleApp.csproj": {
+                "projectPath": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\SampleApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\SampleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\SampleApp.csproj",
+        "projectName": "SampleApp",
+        "projectPath": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\SampleApp.csproj",
+        "packagesPath": "C:\\Users\\vn501ee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vn501ee\\source\\repos\\1\\SampleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vn501ee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://repository.walmart.com/repository/isd-nuget-opensource": {},
+          "https://repository.walmart.com/repository/isd-nuget-snapshots": {},
+          "https://repository.walmart.com/repository/isd-nuget-walmart": {},
+          "https://repository.walmart.com/repository/nuget-gallery": {},
+          "https://repository.walmart.com/repository/nuget-hosted": {},
+          "https://repository.walmart.com/repository/nuget-powershell-gallery": {},
+          "https://repository.walmart.com/repository/nuget-snapshot": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
